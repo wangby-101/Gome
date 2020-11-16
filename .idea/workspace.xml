@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a3d4264-0cf6-4d61-abb1-7fcfac3cee30" name="Default Changelist" comment="add timer.py">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/approvalform.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/approvalform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/get_confs.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/get_confs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/get_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/batepath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/gomeoa.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/gomeoa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/test_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/test_win.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sign_off_result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sign_off_result.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="67f82c09-aab5-4204-a467-e99a59520b8d" />
+  <component name="ProjectId" id="1hfQYLKt3raiWYcr0nkiRRmhXsS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../gome_01-master/common/approvalform.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\Gome" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.timer">
+    <configuration name="approvalform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/approvalform.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/test_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_win" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/test_win.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/timer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.timer" />
+        <item itemvalue="Python.test_win" />
+        <item itemvalue="Python.approvalform" />
+        <item itemvalue="Python.test_time" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a3d4264-0cf6-4d61-abb1-7fcfac3cee30" name="Default Changelist" comment="" />
+      <created>1598259212434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598259212434</updated>
+      <workItem from="1598259213968" duration="6563000" />
+      <workItem from="1598319517667" duration="33158000" />
+      <workItem from="1598364559121" duration="1283000" />
+      <workItem from="1598368959712" duration="114000" />
+      <workItem from="1598492358468" duration="17827000" />
+      <workItem from="1598581083856" duration="24291000" />
+      <workItem from="1598838268611" duration="3155000" />
+      <workItem from="1598843433721" duration="9551000" />
+      <workItem from="1598929194004" duration="17419000" />
+      <workItem from="1599010381525" duration="14447000" />
+      <workItem from="1599100085801" duration="10440000" />
+      <workItem from="1599182866668" duration="7272000" />
+      <workItem from="1599442522870" duration="5423000" />
+      <workItem from="1599552516316" duration="8991000" />
+      <workItem from="1599701863973" duration="13367000" />
+      <workItem from="1600399714473" duration="262000" />
+      <workItem from="1600400168014" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="优化非I开头的付款建议号重复写入文件，添加处理单据数量统计" />
+    <MESSAGE value="添加处理单据数量统计" />
+    <MESSAGE value="add timer.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add timer.py" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603433947344">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1603433947344" />
+    <state width="1578" height="177" key="GridCell.Tab.0.bottom" timestamp="1605501581170">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="177" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605501581170" />
+    <state width="1578" height="177" key="GridCell.Tab.0.center" timestamp="1605501581170">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="177" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605501581170" />
+    <state width="1578" height="177" key="GridCell.Tab.0.left" timestamp="1605501581170">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="177" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605501581170" />
+    <state width="1578" height="177" key="GridCell.Tab.0.right" timestamp="1605501581170">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="177" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605501581170" />
+    <state x="301" y="61" key="SettingsEditor" timestamp="1603422820750">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603422820750" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1603422986859">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1603422986859" />
+  </component>
+</project>
